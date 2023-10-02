@@ -1,45 +1,11 @@
-Nie napiszę o miłości Kolejnej piosenki, 
-Miłość sama we mnie śpiewać ma. 
-Nie chcę prosić o zbyt wiele, Nic mi dziś nie potrzeba, 
-Doceniam, co z natury mam. 
-Wiem jedno, że dostałam więcej niż 
-Udźwignąć sama zdołam, więc 
-Wysyłam trochę ciepła 
-Z mego głosu, z mego serca. 
-Aaa... 
+zwrotka_1.txt
 
-Ref: Jeżeli jutra nie ma, 
-Ja nie przestaję śpiewać - 
-To moja sutra serca... 
-Wyciszam się, 
-W wodzie umarłam dawno, 
-Teraz opadam na dno. 
-Pozwalam sobie zniknąć, 
-Po prostu brzmię. 
+refren_1.txt
 
-Chyba jestem jak ta tafla wody, 
-Odbijam w sobie świat 
-I wasze biedne głowy. 
-Nie staram się was zmieniać, 
-Daje słowo, 
-Jedno chcę wam dać - 
-Obdarzyć was swobodą. 
-Chcę tylko, żeby wszystko 
-Śmiało do mnie zgłaszać, Mówić, co jest nie tak, 
-Za nic nie przepraszać, 
-Nie zaprzeczać, kiedy stwierdzam, że to miłość, 
-Nie wątpić w wartość swoją nijak. 
-Jestem wariatką, komu ufać - jak nie sobie. 
-Wiem, jeśli czuje... a znalazłam właśnie w tobie 
-Odwagę, siłę i intelekt... wątpisz? 
-Zobacz, gdzie stoimy... dziś się pod tym podpisz. 
+zwrotka_2.txt
 
-Ref: Jeżeli jutra nie ma... 
+refren_1.txt
 
-Żadne słowo Nie ma teraz znaczenia, 
-Nic nowego nie odkryję, wiem. 
-W jednym punkcie 
-Z biegiem czasu się zmieniam, 
-Nawet pamięć nie zatrzyma mnie. 
+zwrotka_3.txt
 
-Ref: Jeżeli jutra nie ma... 2x
+refren_1.txt
