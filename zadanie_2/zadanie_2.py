@@ -4,7 +4,7 @@
 print("Witan w naszym programie. \n Stworz spersonalizowane zyczenia urodzinowe")
 imie_odbiorcy =input("Podaj imie odbiorcy: ")
 rok_urodzenia=int(input("Podaj rok urodzenia odbiorcy: "))
-obecny_rok=2023
+obecny_rok=2022
 wiek_odbiorcy= obecny_rok-rok_urodzenia
 spersonalizowana_wiadomosc=input("Podaj tresc zyczen urodzinowych: ")
 imie_nadawcy=input("Podaj swoje imie: ")
